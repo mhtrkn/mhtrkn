@@ -37,9 +37,11 @@ I am an undergraduate student of computer engineering. I am a compatible team pl
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
 
+
+
+
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 
 
@@ -51,4 +53,3 @@ I am an undergraduate student of computer engineering. I am a compatible team pl
 <img src="https://img.shields.io/badge/Eclipse IDE-5C2D91?style=for-the-badge&logo=eclipseidet&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual Studio-239120?style=for-the-badge&logo=visualstudio&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Apache Netbeans IDE-6DB33F?style=for-the-badge&logo=apachenetbeanside&logoColor=white"></img>
