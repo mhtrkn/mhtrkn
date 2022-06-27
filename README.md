@@ -4,7 +4,7 @@
 
 I am an undergraduate student of computer engineering. I am a compatible team player and a good researcher. I am constantly trying to learn new things and improve myself. I like to follow the latest technology and watch innovation. I am actively developing projects with ReactJS.
 
-- 🌱 I’m currently learning React.js, Java
+- 🌱 I’m currently learning React.JS, React Native & Java
 - 👀 I’m interested in Frontend & Mobile
 - 📫 How to reach me: mhturknn@gmail.com
  <!--Statistics-->
